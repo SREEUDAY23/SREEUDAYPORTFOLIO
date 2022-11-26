@@ -1,0 +1,211 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;900&display=swap');
+
+* {
+
+    font-family: 'poppins', sans-serif;
+
+}
+
+body {
+    background-image: url("bg1.jpg");
+    background-repeat: no-repeat;
+
+    background-color: #b1c0c6;
+
+
+
+
+
+}
+
+
+#one {
+
+
+    font-size: 550%;
+    font-weight: 600;
+    margin-bottom: 400px;
+    margin-left: 590px;
+    word-spacing: -2vh;
+
+
+
+}
+
+#two {
+
+    position: absolute;
+    font-size: 550%;
+    font-weight: 600;
+    bottom: 417px;
+    left: 600px;
+    word-spacing: -2vh;
+
+
+
+}
+
+#three {
+
+    position: absolute;
+    font-size: 550%;
+    font-weight: 600;
+    bottom: 340px;
+    left: 600px;
+    word-spacing: -2vh;
+
+}
+
+#four {
+
+
+    position: absolute;
+    font-size: 550%;
+    font-weight: 600;
+    bottom: 263px;
+    left: 600px;
+    word-spacing: -2vh;
+
+}
+
+hr#five {
+    border-top: 4px solid black;
+    width: 45%;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 580px;
+}
+
+hr#six {
+    border-top: 2px solid black;
+    width: 23%;
+    position: absolute;
+    margin-top: -150px;
+    margin-left: 590px;
+}
+
+#seven {
+    position: absolute;
+    font-weight: 550;
+    margin-top: -130px;
+    margin-left: 590px;
+
+}
+
+#eight {
+    position: absolute;
+    font-weight: 250;
+    margin-top: -90px;
+    margin-left: 590px;
+
+}
+
+#nine {
+    position: absolute;
+    font-weight: 250;
+    margin-top: -70px;
+    margin-left: 590px;
+
+}
+
+#ten {
+    position: absolute;
+    font-weight: 250;
+    margin-top: -50px;
+    margin-left: 590px;
+
+}
+
+.cal {
+    position: absolute;
+    font-weight: 250;
+    margin-top: 10px;
+    margin-left: 590px;
+
+}
+
+hr#a {
+    border-top: 2px solid black;
+    width: 23%;
+    position: absolute;
+    margin-top: -150px;
+    margin-left: 999px;
+
+}
+
+#b {
+    position: absolute;
+    margin-top: -135px;
+    margin-left: 1060px;
+    font-weight: 550;
+
+}
+
+#c {
+    position: absolute;
+    font-weight: 250;
+    margin-top: -105px;
+    margin-left: 1020px;
+
+
+}
+
+#d {
+    position: absolute;
+    font-weight: 250;
+    margin-top: -45px;
+    margin-left: 1020px;
+
+
+}
+
+hr#e {
+    border-top: 2px solid black;
+    width: 23%;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 999px;
+
+}
+
+#f {
+    position: absolute;
+    font-weight: 550;
+    margin-top: 55px;
+    margin-left: 1060px;
+
+
+}
+
+#g {
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 1050px;
+    color: red;
+    background-color: white;
+    text-decoration: dotted;
+
+
+}
+
+#h {
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 1050px;
+    color: red;
+    background-color: white;
+    text-decoration: dotted;
+
+
+}
+
+#i {
+    position: absolute;
+    margin-top: 182px;
+    margin-left: 1050px;
+    color: red;
+    background-color: white;
+    text-decoration: dotted;
+
+
+}
